@@ -1,21 +1,84 @@
 MIT License
 
-Copyright (c) 2026 jamuna0077
+Copyright (c) 2026 Jamuna Sri
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+to:
+
+- use
+- copy
+- modify
+- merge
+- publish
+- distribute
+- sublicense
+- and/or sell copies of the Software
+
+and to permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+------------------------------------------------------------
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 
+------------------------------------------------------------
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF:
+
+- MERCHANTABILITY
+- FITNESS FOR A PARTICULAR PURPOSE
+- NON-INFRINGEMENT
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+------------------------------------------------------------
+
+ADDITIONAL PROJECT INFORMATION (Music Player Web App)
+
+This project is a front-end Music Player Web Application developed using:
+
+- HTML
+- CSS
+- TypeScript (compiled to JavaScript)
+
+Key Functional Features:
+
+1. Interactive playlist grid displaying songs
+2. Song filtering based on genre and artist
+3. Search functionality for quick song lookup
+4. "Now Playing" section to display current track
+5. Play count tracking for each song
+6. Recently played songs (limited to last five)
+7. Clean and responsive user interface
+
+Educational Purpose:
+
+This project is created for learning and academic purposes to demonstrate:
+- TypeScript typing and interfaces
+- DOM manipulation
+- Event handling in web applications
+- Basic UI/UX design principles
+
+Usage Notice:
+
+- This project does NOT include copyrighted music files.
+- Placeholder images and dummy data are used.
+- Users should ensure they have proper rights before adding real audio content.
+
+Limitations:
+
+- No backend or database integration
+- No real audio streaming functionality
+- Designed for demonstration purposes only
+
+------------------------------------------------------------
+
+For more information about the MIT License:
+https://opensource.org/licenses/MIT
